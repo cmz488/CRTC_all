@@ -1,6 +1,6 @@
 .\objects\ps2.o: Hardware\ps2.c
 .\objects\ps2.o: Hardware\ps2.h
-.\objects\ps2.o: G:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\ps2.o: C:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\ps2.o: .\Start\stm32f10x.h
 .\objects\ps2.o: .\Start\core_cm3.h
 .\objects\ps2.o: .\Start\system_stm32f10x.h

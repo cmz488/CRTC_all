@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe8ccdf3-00a8-4c68-a0cb-5eb73c4aa5cf" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/二号机器人开发日志.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/二号机器人开发日志.md" afterDir="false" />
-    </list>
+    <list default="true" id="fe8ccdf3-00a8-4c68-a0cb-5eb73c4aa5cf" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
